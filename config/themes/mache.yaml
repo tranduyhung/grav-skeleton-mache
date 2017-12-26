@@ -1,0 +1,23 @@
+enabled: true
+favicon:
+  user/themes/mache/images/favicon.png:
+    name: favicon.png
+    type: image/png
+    size: 1177
+    path: user/themes/mache/images/favicon.png
+logo:
+  user/themes/mache/images/logo.png:
+    name: logo.png
+    type: image/png
+    size: 1824
+    path: user/themes/mache/images/logo.png
+left_footer: "&copy; 2015 COPYRIGHT MACHE TEMPLATE\r\n\r\nFree Template by FreeTemplates.pro\r\n"
+right_footer: 'DESIGNED BY SYMU.CO'
+blog_thumbnail_width: 600
+blog_thumbnail_height: 450
+default_background_image:
+  user/themes/mache/images/freepsdanner.jpg:
+    name: freepsdanner.jpg
+    type: image/jpeg
+    size: 53599
+    path: user/themes/mache/images/freepsdanner.jpg
