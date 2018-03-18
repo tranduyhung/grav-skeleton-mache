@@ -4,6 +4,10 @@
 
 Mache skelenton is a skeleton for Mache theme, a port of [Mache](https://freetemplates.pro/downloads/mache-html-template-for-business/) by [freetemplates.pro](https://freetemplates.pro/), original PSD design by [symu.co](https://symu.co/freebies/templates-4/mache-psd-template/).
 
+## Demo
+
+You can see a demo here: [grav-theme-mache.flatfiledeveloper.com](https://grav-theme-mache.flatfiledeveloper.com).
+
 # Features
 
 ## Grav Features:
