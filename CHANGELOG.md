@@ -1,3 +1,10 @@
+# v.1.0.5
+## 05/06/2018
+
+1. [](#improved)
+    * Updated Grav and plugins
+    * Updated to Mache theme 1.0.5
+
 # v.1.0.4
 ## 18/03/2018
 
