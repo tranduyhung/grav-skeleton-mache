@@ -1,38 +1,44 @@
+# v.1.0.8
+## 04/06/2022
+
+1. [](#improved)
+    * Updated Grav, plugins and Mache theme to the latest releasess
+
 # v.1.0.6
-## 15/06/2018
+## 06/15/2018
 
 1. [](#improved)
     * Updated Grav and plugins
     * Updated to Mache theme 1.0.6
 
 # v.1.0.5
-## 05/06/2018
+## 06/05/2018
 
 1. [](#improved)
     * Updated Grav and plugins
     * Updated to Mache theme 1.0.5
 
 # v.1.0.4
-## 18/03/2018
+## 03/18/2018
 
 1. [](#improved)
     * Updated Grav and plugins
     * Updated to Mache theme 1.0.4
 
 # v.1.0.3
-## 02/01/2018
+## 01/02/2018
 
 1. [](#improved)
     * Updated to Mache theme 1.0.3
 
 # v.1.0.1
-## 26/12/2017
+## 12/26/2017
 
 1. [](#improved)
     * Updated to Mache theme 1.0.1
 
 # v1.0.0
-## 26/12/2017
+## 12/26/2017
 
 1. [](#new)
     * First release
